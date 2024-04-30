@@ -1,0 +1,16 @@
+.logo-background {
+    background-image: url('../assets/logo.png'); 
+    background-size: cover;  
+    background-position: center; 
+}
+body{
+    color: white;
+    
+        font-family: 'Outfit Variable', sans-serif;
+}
+.full-screen-bg {
+    /* width: 100vw;
+    height: 100vh; */
+    background-size: cover;
+    background-position: center;
+}
